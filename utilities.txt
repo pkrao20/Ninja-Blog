@@ -1,0 +1,3 @@
+to run json server-- npx json server --watch db.json
+
+// make sure to run before running application

@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "New journey",
+      "body": "Hello everyone , i am starting new journey and starting to learn MERN stack",
+      "author": "Yoshi",
+      "id": 1
+    },
+    {
+      "title": "Hello Welcome.....",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ut lorem in luctus. Vestibulum turpis enim, fringilla quis leo semper, placerat viverra risus. Praesent eget tortor eleifend, semper erat mattis, imperdiet purus. Integer non dui urna. Donec in lacinia sapien. Praesent quis accumsan augue, suscipit dignissim arcu. Nulla et elementum erat. Sed ut turpis augue. Aliquam imperdiet ante nec scelerisque vestibulum. Sed rhoncus leo quis erat hendrerit lobortis.\n\nMorbi maximus tellus congue ante ornare, vel varius est tincidunt. Vivamus molestie vestibulum massa venenatis vulputate. Duis condimentum purus ac justo tempor vehicula. Mauris at aliquam quam. Nulla in malesuada urna, quis pellentesque nisi. Mauris eget porttitor neque. Integer ultricies a ipsum sed efficitur. Sed et fringilla dolor, vel accumsan erat. Morbi quis metus justo. Etiam accumsan sagittis eleifend. Vivamus ex leo, viverra vel eros id, volutpat consectetur neque. Pellentesque aliquet eu arcu et cursus. Nulla id tempor quam. Quisque non risus vitae eros posuere posuere. Morbi imperdiet lacus vitae ligula posuere feugiat. Cras non iaculis nunc.",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
